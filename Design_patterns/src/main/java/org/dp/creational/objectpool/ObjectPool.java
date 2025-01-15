@@ -1,4 +1,4 @@
-package org.dp.objectpool;
+package org.dp.creational.objectpool;
 
 import java.util.concurrent.*;
 

@@ -1,4 +1,4 @@
-package org.dp.simplefactory;
+package org.dp.creational.simplefactory;
 
 public class WheelsMain {
     public static void main(String[] args) {

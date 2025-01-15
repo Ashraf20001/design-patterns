@@ -1,4 +1,4 @@
-package org.dp.builder;
+package org.dp.creational.builder;
 
 public class BuilderDesignPattern {
     public static void main(String[] args) {

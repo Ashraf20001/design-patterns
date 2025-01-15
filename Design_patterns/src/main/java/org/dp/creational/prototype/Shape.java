@@ -1,4 +1,4 @@
-package org.dp.prototype;
+package org.dp.creational.prototype;
 
 public interface Shape {
     Shape clone();

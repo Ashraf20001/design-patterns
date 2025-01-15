@@ -1,4 +1,4 @@
-package org.dp.abstractfactory;
+package org.dp.creational.abstractfactory;
 
 public class AbstractFactoryClient {
     public static void main(String[] args) {

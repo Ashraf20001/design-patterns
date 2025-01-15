@@ -1,4 +1,4 @@
-package org.dp.abstractfactory;
+package org.dp.creational.abstractfactory;
 
 public interface AbstractFactory {
     Car createCars();

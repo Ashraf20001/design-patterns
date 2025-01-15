@@ -1,4 +1,4 @@
-package org.dp.objectpool;
+package org.dp.creational.objectpool;
 
 public class CostlyExportingProcess {
     private Long processNo;

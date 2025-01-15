@@ -1,4 +1,4 @@
-package org.dp.simplefactory;
+package org.dp.creational.simplefactory;
 
 public interface WheelInterface {
     void setDiameter(float diameter);
