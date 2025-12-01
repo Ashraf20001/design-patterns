@@ -47,3 +47,20 @@ class EfficientSingleton{
         return instance;
     }
 }
+
+// BillPughSingleton Pattern for Singleton
+
+class BillPughSingleton{
+
+    private BillPughSingleton(){
+        System.out.println("BillPughSingleton created");
+    }
+
+    private static class BillPughStaticInnerClass{
+        private static final BillPughSingleton  BILLPUGHSINGLETON = new BillPughSingleton();
+    }
+
+   public BillPughSingleton getBillPughSingleton(){
+        return BillPughStaticInnerClass.BILLPUGHSINGLETON;
+   }
+}
